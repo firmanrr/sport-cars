@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Sport Cars</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="car_name">car</string>
+    <string name="img">img</string>
+    <string name="car_desc">description</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="car_description">description</string>
+    <string-array name="data_name">
+        <item>Ferrari 488 GTB</item>
+        <item>Lamborghini Huracan</item>
+        <item>Porsche 911 Carrera</item>
+        <item>Chevrolet Corvette</item>
+        <item>Aston Martin Vantage</item>
+        <item>McLaren 720S</item>
+        <item>Audi R8</item>
+        <item>BMW i8</item>
+        <item>Nissan GT-R</item>
+        <item>Ford Mustang</item>
+        <item>Mercedes-AMG GT</item>
+        <item>Jaguar F-Type</item>
+        <item>Dodge Challenger</item>
+        <item>Lotus Evora</item>
+        <item>Tesla Roadster</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ferrari 488 GTB adalah mobil sport Italia yang memadukan desain futuristik dengan performa tinggi. Ditenagai oleh mesin V8 twin-turbo, mobil ini menawarkan akselerasi cepat dan handling yang luar biasa.</item>
+        <item>Lamborghini Huracan adalah simbol kecepatan dan gaya. Dengan mesin V10 yang menghasilkan suara menggemparkan, Huracan menghadirkan pengalaman berkendara supercar yang mengagumkan.</item>
+        <item>Porsche 911 Carrera adalah mobil sport klasik dengan desain yang ikonik. Terkenal dengan kinerja dan daya tahan, 911 Carrera memberikan keseimbangan yang sempurna antara kenyamanan dan performa.</item>
+        <item>Corvette Stingray adalah mobil sport Amerika yang menawarkan kombinasi daya, keindahan, dan teknologi canggih. Dengan desain yang mengagumkan dan mesin V8 yang bertenaga, Stingray memberikan pengalaman berkendara yang memukau.</item>
+        <item>Aston Martin Vantage adalah perpaduan elegan antara keindahan dan performa. Ditenagai oleh mesin V8 gahar, Vantage menawarkan kombinasi suara mesin yang menggoda dan handling presisi.</item>
+        <item>McLaren 720S adalah mobil sport super yang memukau dengan desain futuristik dan mesin V8 twin-turbocharged yang luar biasa. Performa dan inovasi teknologi menjadikan 720S salah satu mobil paling cepat di dunia.</item>
+        <item>Audi R8 adalah mobil sport Jerman yang memadukan gaya dan performa. Ditenagai oleh mesin V10, R8 menawarkan akselerasi cepat dan sistem penggerak empat roda quattro untuk mengoptimalkan traksi.</item>
+        <item>BMW i8 adalah mobil sport plug-in hybrid yang menggabungkan desain futuristik dengan teknologi ramah lingkungan. Dengan mesin bensin dan motor listrik, i8 memberikan kombinasi unik antara efisiensi dan performa.</item>
+        <item>Nissan GT-R, juga dikenal sebagai "Godzilla," adalah mobil sport Jepang yang terkenal dengan akselerasinya yang luar biasa dan handling yang presisi. Desain aerodinamisnya mencerminkan performa tinggi yang dimilikinya.</item>
+        <item>Ford Mustang Shelby GT500 adalah mobil muscle car Amerika yang mengekspresikan kekuatan dan kegagahan. Dengan mesin supercharged V8, GT500 adalah simbol kekuatan dari pabrikan Ford.</item>
+        <item>Mercedes-AMG GT adalah mobil sport mewah Jerman yang menggabungkan desain elegan dengan performa tinggi. Mesin V8 yang kuat dan kabin yang mewah menjadikan AMG GT pilihan bagi penggemar mobil sport premium.</item>
+        <item>Jaguar F-Type adalah mobil sport Inggris dengan desain yang sangat menarik dan performa yang mengagumkan. Suara mesin yang khas dan kenyamanan berkendara membuat F-Type menjadi pilihan yang menggoda.</item>
+        <item>Dodge Challenger SRT Hellcat adalah muscle car Amerika yang dikenal dengan kekuatan dan kemampuan akselerasinya yang luar biasa. Mesin supercharged HEMI V8 menjadikan Hellcat salah satu mobil paling bertenaga di jalanan.</item>
+        <item>Lotus Evora adalah mobil sport ringan dari Inggris yang menonjolkan handling superior dan kecepatan di tikungan. Dengan bobot yang ringan dan performa tinggi, Evora menawarkan pengalaman berkendara yang mendalam.</item>
+        <item>Tesla Roadster adalah mobil sport listrik yang menggabungkan kecepatan dengan keberlanjutan. Dikenal sebagai mobil listrik pertama dari Tesla, Roadster menawarkan kinerja tinggi dan jangkauan yang memukau.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ferrari</item>
+        <item>@drawable/lambo</item>
+        <item>@drawable/porsche</item>
+        <item>@drawable/chevrolet</item>
+        <item>@drawable/aston</item>
+        <item>@drawable/mclaren</item>
+        <item>@drawable/audi</item>
+        <item>@drawable/bmw</item>
+        <item>@drawable/nissan</item>
+        <item>@drawable/ford</item>
+        <item>@drawable/mercedes</item>
+        <item>@drawable/jaguar</item>
+        <item>@drawable/dodge</item>
+        <item>@drawable/lotus</item>
+        <item>@drawable/tesla</item>
+    </integer-array>
+
+    <string-array name="data_sound">
+        <item>ferrari</item>
+        <item>lambo</item>
+        <item>porsche</item>
+        <item>chevrolet</item>
+        <item>aston</item>
+        <item>mclaren</item>
+        <item>audi</item>
+        <item>bmw</item>
+        <item>nissan</item>
+        <item>ford</item>
+        <item>mercedes</item>
+        <item>jaguar</item>
+        <item>dodge</item>
+        <item>lotus</item>
+        <item>tesla</item>
+    </string-array>
+
+</resources>

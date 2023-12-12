@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_color">#1a1c33</color>
+    <color name="card">#373850</color>
+    <color name="green">#4ea043</color>
+    <color name="red">#d14f4f</color>
+    <color name="background_color">#FFE8F0</color>
+    <color name="button_white">#FFFFFF</color>
+    <color name="pink_lightest">#FFBCD4</color>
+    <color name="pink_light">#F6679A</color>
+    <color name="pink">#FF3874</color>
+    <color name="button">#557C55</color>
+    <color name="background_gradient">@drawable/background_round</color>
+</resources>
