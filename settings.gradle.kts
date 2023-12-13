@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FinalDicoding"
+rootProject.name = "SportCars"
 include(":app")

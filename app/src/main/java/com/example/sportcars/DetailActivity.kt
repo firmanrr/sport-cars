@@ -1,9 +1,9 @@
-package com.example.finaldicoding
+package com.example.sportcars
 
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
-import com.example.finaldicoding.databinding.ActivityDetailBinding
+import com.example.sportcars.databinding.ActivityDetailBinding
 
 class DetailActivity : AppCompatActivity() {
 

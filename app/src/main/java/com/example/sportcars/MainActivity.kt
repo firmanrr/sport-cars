@@ -1,4 +1,4 @@
-package com.example.finaldicoding
+package com.example.sportcars
 
 import ListHeroAdapter
 import android.content.Intent
@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DefaultItemAnimator
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.finaldicoding.databinding.ActivityMainBinding
+import com.example.sportcars.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
@@ -55,8 +55,6 @@ class MainActivity : AppCompatActivity() {
         }
         return super.onOptionsItemSelected(item)
     }
-
-
 
     private fun getListHeroes(): ArrayList<Cars> {
         val dataName = resources.getStringArray(R.array.data_name)
